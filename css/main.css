@@ -139,4 +139,8 @@ body {
   width: 50%;
   margin: 40px auto;
 }
+.bottom-container{
+    padding-top: 0.25%;
+    padding-bottom: 0.25%;
+}
 /*# sourceMappingURL=main.css.map */
